@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Halo semua!  👋
+Perkenalkan nama saya **Gilang Ramadhan**.\
+Saya seorang **Web Developer**.\
+Saya juga seorang mahasiswa di Universitas Komputer Indonesia.\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/minr/)ku ya.
 <!--
 **mikhlasnr/mikhlasnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
