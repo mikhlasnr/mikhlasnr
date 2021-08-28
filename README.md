@@ -1,5 +1,5 @@
 # Halo semua!  👋
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **M Ikhlas Naufalsyah Ranau**.\
 Saya seorang **Web Developer**.\
 Saya juga seorang mahasiswa di Universitas Komputer Indonesia.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/minr/)ku ya.
