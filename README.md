@@ -3,6 +3,7 @@ Perkenalkan nama saya **M Ikhlas Naufalsyah Ranau**.\
 Saya seorang **Web Developer**.\
 Saya juga seorang mahasiswa di Universitas Komputer Indonesia.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/minr/)ku ya.
+Untuk melihat project yang sudah aku buat bisa dilihat website portofolioku ini [ranau,my.id](http://ranau.my.id/).
 <!--
 **mikhlasnr/mikhlasnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
